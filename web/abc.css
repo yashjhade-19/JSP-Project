@@ -1,0 +1,65 @@
+body
+{
+background-image:url('login.jpg');
+background-size:cover;
+}
+#mymenu
+{
+background-color:rgba(0,0,0,0.8);
+color:white;
+text-align:right;	
+}
+#mymenu ul li
+{
+display:inline-block;
+padding:20px;	
+}
+
+
+table
+{
+margin-top:100px;
+background-color:rgba(0,0,0,0.4);
+color:white;
+box-shadow:15px 15px 15px black;	
+}
+
+.B
+{
+width:85px;
+height:40px;
+background:linear-gradient(gray,black,navy);
+color:white;
+border-radius:0px 20px 0px 20px;	
+}
+.B:hover
+{
+width:85px;
+height:40px;
+background:linear-gradient(to right,gray,black,navy);
+color:white;
+border-radius:0px 20px 0px 20px;	
+}
+
+/*#t1
+{
+border-radius:20px;	
+}*/
+.error {
+    color: red !important;
+    font-size: 12px !important;
+}
+
+.c1
+{
+border-radius:20px;	
+}
+
+input
+{
+border-radius:20px;    
+}
+
+h2{
+   color:white; 
+}
