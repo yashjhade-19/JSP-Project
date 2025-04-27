@@ -39,6 +39,7 @@ It has separate login systems for admin (teachers) and students.
 3. Deploy the project on **Tomcat**
 4. Access via: `http://localhost:8080/StudentMarksProject/`
 
+working video: https://www.linkedin.com/posts/yash-jhade_java-servlets-jsp-activity-7317128479806832640-rgUU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjwWFMBeYyGEZBDt5R6JsWXW19VYsjM0n0 
 ---
 
 ## 📌 Note
